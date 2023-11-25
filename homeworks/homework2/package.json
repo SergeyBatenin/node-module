@@ -1,0 +1,24 @@
+{
+  "name": "my-generator-password",
+  "version": "1.0.0",
+  "description": "Библиотека для создания пароля по заданным параметрам, как длина пароля, наличие прописных и строчных букв, цифр, спецсимволов",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyBatenin/node-module.git#main"
+  },
+  "keywords": [
+    "generate",
+    "password"
+  ],
+  "author": "Sergey Batenin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyBatenin/node-module/issues"
+  },
+  "homepage": "https://github.com/SergeyBatenin/node-module/tree/main#readme"
+}
